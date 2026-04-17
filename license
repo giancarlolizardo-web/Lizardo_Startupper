@@ -1,35 +1,25 @@
-Plaintext
-CONTRATTO DI LICENZA OPEN SOURCE "FASTMENU"
-(Basato sui principi della Licenza Apache 2.0 - Adattamento per uso scolastico/didattico)
+CONTRATTO DI LICENZA "FASTMENU"
 
-TERMINI E CONDIZIONI PER L'USO, LA RIPRODUZIONE E LA DISTRIBUZIONE
+Questo documento spiega in modo chiaro cosa puoi e cosa non puoi fare con il software "FastMenu". Leggilo attentamente prima di utilizzare il codice.
 
-1. DEFINIZIONI
-- "Licenza" indica i termini e le condizioni per l'uso, la riproduzione e la distribuzione definiti nel presente documento.
-- "Licenziante" indica il proprietario del copyright o l'entità autorizzata dal proprietario del copyright che concede la Licenza.
-- "Tu" (o "Tuo") indica la persona fisica o l'Entità Legale che esercita le autorizzazioni concesse dalla presente Licenza.
-- "Opera" indica il software, il codice sorgente o il progetto messo a disposizione con questa Licenza.
-- "Opere Derivate" indica qualsiasi lavoro, in forma di codice sorgente o oggetto, basato (o derivato) dall'Opera originale, in cui le revisioni editoriali, le annotazioni o le modifiche rappresentano nel loro insieme un'opera d'autore originale.
+1. COSA TI PERMETTO DI FARE (I tuoi diritti)
+Ti do il permesso di fare quasi tutto con questo codice. Nello specifico, sei libero di:
+- Scaricare e usare il codice gratuitamente per sempre.
+- Modificare il codice per adattarlo ai tuoi progetti.
+- Condividere il codice con chi vuoi.
+- Usare questo software anche per scopi commerciali. Questo significa che puoi inserire "FastMenu" dentro a un sito web o a un programma che poi venderai ai tuoi clienti per guadagnare.
 
-2. CONCESSIONE DELLA LICENZA DI COPYRIGHT
-Nel rispetto dei termini e delle condizioni della presente Licenza, il Licenziante concede a Te una licenza di copyright perpetua, valida in tutto il mondo, non esclusiva, gratuita, ed irrevocabile per riprodurre, preparare Opere Derivate, mostrare pubblicamente, eseguire, concedere in sottolicenza e distribuire l'Opera e le relative Opere Derivate.
+2. LE REGOLE DA RISPETTARE (I tuoi obblighi)
+Anche se il software è gratuito, ci sono alcune regole di base che devi assolutamente rispettare se decidi di usarlo o distribuirlo:
+- Devi sempre lasciare scritto nel codice che l'autore originale sono io. Non puoi dire di averlo inventato tu.
+- Se modifichi il codice originale, devi scriverlo chiaramente, in modo che la gente sappia che non è la mia versione base.
+- Devi includere una copia di questo testo di licenza nel tuo progetto.
 
-3. CONCESSIONE DI LICENZA DI BREVETTO
-Fatti salvi i termini e le condizioni della presente Licenza, il Licenziante concede a Te una licenza di brevetto perpetua, non esclusiva e gratuita per realizzare, utilizzare, vendere, importare e trasferire l'Opera. Questa concessione si applica unicamente alle rivendicazioni brevettuali che sarebbero inevitabilmente violate dall'uso dell'Opera stessa. 
+3. NOME E MARCHI
+Il nome "FastMenu" è di mia proprietà. Non puoi usare il mio nome o il nome del progetto in un modo che faccia credere alla gente che io sia tuo socio o che io abbia approvato il tuo lavoro, a meno che non te lo permetta io esplicitamente. 
 
-4. REGOLE PER LA RIDISTRIBUZIONE
-Puoi riprodurre e distribuire copie dell'Opera o delle sue Opere Derivate su qualsiasi supporto, con o senza modifiche, a patto di rispettare le seguenti condizioni obbligatorie:
-a) Devi fornire a qualsiasi altro destinatario dell'Opera o delle Opere Derivate una copia di questa Licenza;
-b) Devi fare in modo che qualsiasi file modificato contenga avvisi ben visibili in cui si dichiara che hai modificato i file;
-c) Devi mantenere, nella forma sorgente di qualsiasi Opera Derivata che distribuisci, tutti gli avvisi di copyright, brevetto, marchio e attribuzione presenti nell'Opera originale.
+4. NESSUNA GARANZIA (A tuo rischio e pericolo)
+Ti sto regalando questo software "così com'è". Questo significa che, anche se ho fatto del mio meglio per programmarlo bene, non ti garantisco che funzionerà sempre perfettamente e senza intoppi. Lo usi a tuo rischio e pericolo.
 
-Puoi aggiungere la tua dichiarazione di copyright alle tue modifiche e puoi fornire termini e condizioni di licenza aggiuntivi o diversi per l'uso, a condizione che l'utilizzo e la ridistribuzione dell'Opera originale siano conformi a questa Licenza.
-
-5. UTILIZZO DI MARCHI COMMERCIALI
-La presente Licenza non concede l'autorizzazione a utilizzare i nomi commerciali, i marchi, i marchi di servizio o i nomi dei prodotti del Licenziante, se non per quanto ragionevolmente necessario per descrivere l'origine dell'Opera.
-
-6. ESCLUSIONE DI GARANZIA
-Salvo quanto richiesto dalla legge applicabile o concordato per iscritto, il Licenziante fornisce l'Opera "COSÌ COM'È", SENZA GARANZIE O CONDIZIONI DI ALCUN TIPO, esplicite o implicite, incluse, a titolo esemplificativo, qualsiasi garanzia di TITOLARITÀ, NON VIOLAZIONE, COMMERCIABILITÀ o IDONEITÀ PER UNO SCOPO PARTICOLARE. Tu sei l'unico responsabile nel determinare l'adeguatezza dell'uso o della ridistribuzione dell'Opera e ti assumi tutti i rischi associati all'esercizio dei tuoi diritti ai sensi della presente Licenza.
-
-7. LIMITAZIONE DI RESPONSABILITÀ
-In nessun caso e in base a nessuna teoria legale, sia per atto illecito (inclusala negligenza), contratto o altro, salvo quanto richiesto dalla legge applicabile, il Licenziante potrà essere ritenuto responsabile nei tuoi confronti per danni, inclusi danni diretti, indiretti, speciali, accidentali o consequenziali derivanti da questa Licenza o dall'uso o dall'impossibilità di usare l'Opera (inclusi, ma non limitati a, danni per perdita di avviamento, interruzione del lavoro, guasto informatico o qualsiasi altro danno o perdita commerciale).
+5. NESSUNA RESPONSABILITÀ SUI DANNI
+Se usando il mio codice ti si blocca il computer, il tuo sito web va offline, o la tua azienda perde dei soldi, io non ho nessuna colpa. Scaricando e usando questo software, accetti che non potrai mai portarmi in tribunale e non potrai mai chiedermi nessun risarcimento economico per eventuali danni causati dal codice.
